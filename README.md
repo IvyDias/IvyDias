@@ -12,7 +12,7 @@
 
 ###
 <p>୧ ‧₊˚ 🍼  ꒰olá dev ꒱♡ ⌎ ˊᗜˋ <br>
-✦. ⊹ ˚ .꒰ Explorando código e ideias sem roteiro ꒱ ‧₊˚★
+✦. ⊹ ˚ .꒰ Explorando código e ideias sem roteiro ꒱ ‧₊˚★ <br>
 。°˖あ ꒰Cada dia um bug, cada dia um aprendizado ꒱ ੭🍮*– ⵌ</p>
 
 ###
