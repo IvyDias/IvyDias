@@ -3,15 +3,12 @@
 <h1 align="left">──★ ˙🍓 ̟ 𐔌 . ⋮ tech girl.ᐟ ֹ ₊ ꒱!!</h1>
 
 ###
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E58CF7&width=435&lines=I'm+18+years+old+%F0%90%94%8C%D5%9E.+.%D5%9E%F0%90%A6%AF)](https://git.io/typing-svg)
+
+<img align="right" height="414" src="https://i7.glitter-graphics.org/pub/2142/2142437odvdo904nt.gif"  />
+
 ###
+
 <p align="left">୧ ‧₊˚ 🌷  ꒰olá dev꒱♡⌎ ˊᗜˋ<br>✦. ⊹ ˚ .꒰ Explorando código e ideias sem roteiro꒱ ‧₊˚★<br>。°˖あ ꒰persona type ꒱ ੭🍮*– ⵌ</p>
-
-###
-
-<br clear="both">
-
-<img align="right" height="245" src="https://i7.glitter-graphics.org/pub/2142/2142437odvdo904nt.gif"  />
 
 ###
 
