@@ -1,4 +1,6 @@
-<img align="right" height="200" src="https://i7.glitter-graphics.org/pub/2142/2142437odvdo904nt.gif"/>
+<br clear="both">
+
+<img align="right" height="200" src="https://i7.glitter-graphics.org/pub/2142/2142437odvdo904nt.gif"  />
 
 ###
 
