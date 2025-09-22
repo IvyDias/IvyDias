@@ -8,9 +8,7 @@
 
 ###
 
-<p align="left">୧ ‧₊˚ 🌷  ꒰olá dev꒱♡⌎ ˊᗜˋ<br>✦. ⊹ ˚ .꒰ Explorando código e ideias sem roteiro꒱ ‧₊˚★<br>。°˖あ Cada dia um bug, cada dia um aprendizado
-
-꒰ Menina que adora descobrir e criar, de bits a sonhos ꒱ ੭🍮*– ⵌ</p>
+<p align="left">୧ ‧₊˚ 🌷  ꒰olá dev꒱♡⌎ ˊᗜˋ<br>✦. ⊹ ˚ .꒰ Explorando código e ideias sem roteiro꒱ ‧₊˚★<br>。°˖あ Cada dia um bug, cada dia um aprendizado ꒱ ੭🍮*– ⵌ</p>
 
 <br clear="both">
 
