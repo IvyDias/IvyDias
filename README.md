@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="414" src="https://i7.glitter-graphics.org/pub/2142/2142437odvdo904nt.gif"  />
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
