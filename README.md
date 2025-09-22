@@ -1,21 +1,17 @@
-<br clear="both">
+<img width = "100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ee87a6&section=header&reversal=false"/>
+<br>
 
-<h1 align="left">──★ ˙🍓 ̟ 𐔌 . ⋮ tech girl.ᐟ ֹ ₊ ꒱!!</h1>
-
-###
-
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<p align="left">୧ ‧₊˚ 🌷  ꒰olá dev꒱♡⌎ ˊᗜˋ<br>✦. ⊹ ˚ .꒰ Explorando código e ideias sem roteiro꒱ ‧₊˚★<br>。°˖あ Cada dia um bug, cada dia um aprendizado ꒱ ੭🍮*– ⵌ</p>
-
-<br clear="both">
-
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvyDias&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IvyDias&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
+<h1 align="left">──★ ˙🍓 tech girl !!</h1>
 
-###
+<div align="center" width="100%">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixely+Sans&size=24&duration=4996&pause=989&color=EE87A6&repeat=false&width=435&lines=welcome+to+my+profile+++%F0%90%94%8C%D5%9E.+.%D5%9E%F0%90%A6%AF" alt="Typing SVG" /></a>
+
+<p align="left">(\ (\<br>(„• ֊ •„)<br>━O━O━━━━━━━━━<br>・:。meu nome é ivy「 ✉️ 」・:三<br>━━━━━━━━━━━━━</p>
+<p align="left">˚୨୧⋆｡˚ ⋆--- hii <br>☆ apenas descobrindo coisas novas<br>┊✦. todo dia um bug diferente</p>
+
+<br clear="both">
+
+
+
+
