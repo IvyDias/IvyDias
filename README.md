@@ -1,4 +1,9 @@
-<img width = "100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=e3819f&descAlignY=75&fontAlignY=48&fontAlign=47"/>
+<img
+  src="https://i.pinimg.com/736x/37/fe/57/37fe573bc1860a0baad3184111819398.jpg"
+  alt="banner"
+  style="width:100%; height:150px; object-fit:cover;"
+/>
+
 <br>
 
 </div>
