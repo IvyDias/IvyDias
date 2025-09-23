@@ -1,9 +1,11 @@
+<p align="center">
 <img
-  src="https://i.pinimg.com/736x/37/fe/57/37fe573bc1860a0baad3184111819398.jpg"
+  src="https://i.pinimg.com/originals/36/ab/c0/36abc0149c648fbdced4113dd4ca7ea9.gif"
   alt="banner"
-  style="width:100%; height:150px; object-fit:cover;"
+  style="width:200%; height:100px; object-fit:cover;"
 />
-
+<p/>
+  
 <br>
 
 </div>
