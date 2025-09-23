@@ -21,9 +21,9 @@
        width="220"
        alt="Glitter GIF">
 <p align="left">(\ (\<br>(„• ֊ •„)<br>━O━O━━━━━━━━━<br>・:。meu nome é ivy「 ✉️ 」・:三<br>━━━━━━━━━━━━━</p>
-<p align="left">ㅤㅤㅤㅤ⋆｡‧˚ʚ🍓ɞ˚‧｡⋆ ⋆--- hii 𐔌՞꜆. ̫.꜀՞𐦯 <br>
-☆ estou sempre descobrindo coisas novas todos os dias, explorando cada cantinho do meu mundo digital e aprendendo algo diferente a cada momento ˗ˏˋ ꒰ 🍓🍒🍄 ꒱ ˎˊ˗
-<br>┊✦. todo dia surge um bug diferente, mas cada erro é uma oportunidade divertida(ou não˙𐃷˙) de aprender e melhorar minhas habilidades  </p>
+<p align="left">ㅤㅤㅤ⋆｡‧˚ʚ🍓ɞ˚‧｡⋆ ⋆--- hii 𐔌՞꜆. ̫.꜀՞𐦯 <br>
+☆ estou sempre descobrindo coisas novas todos os dias, explorando cada cantinho <br>do meu  mundo digital e aprendendo algo diferente a cada momento ˗ˏˋ ꒰ 🍓🍒🍄 ꒱ ˎˊ˗
+<br>｡･ﾟﾟ   ㅤㅤ¨*:·.ㅤㅤㅤㅤㅤㅤ   ･　ㅤㅤㅤ¨*ㅤㅤㅤㅤㅤ   ･ﾟﾟ     ㅤㅤㅤㅤㅤ    ･｡<br>┊✦. todo dia surge um bug diferente, mas cada erro é uma oportunidade divertida (ou não˙𐃷˙)<br> de aprender e melhorar minhas habilidades  ㅤㅤㅤㅤㅤ¨*:·.ㅤ   ･　</p>
 
 
 <br>
