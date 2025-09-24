@@ -1,6 +1,5 @@
 <p align="center" style="margin:0; padding:0; overflow:hidden;">
-  <img src="https://blinkiecollecti0n.neocities.org/images/smooch.gif"
-    alt="banner"
+  <img src="https://blinkies.cafe/b/blinkiesCafe-93.gif"
     style="
       width:120%;
       height:160px;
