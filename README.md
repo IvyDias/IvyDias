@@ -1,5 +1,5 @@
 <p align="center" style="margin:0; padding:0; overflow:hidden;">
-  <img src="https://blinkies.cafe/b/blinkiesCafe-93.gif"
+  <img src="https://blinkies.cafe/b/blinkiesCafe-9G.gif"
     style="
       width:120%;
       height:160px;
