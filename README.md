@@ -1,5 +1,5 @@
 <p align="center" style="margin:0; padding:0; overflow:hidden;">
-  <img src="https://adriansblinkiecollection.neocities.org/g47.gif"
+  <img src="https://adriansblinkiecollection.neocities.org/g105.gif"
     style="
       width:120%;
       height:160px;
