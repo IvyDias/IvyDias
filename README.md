@@ -21,7 +21,19 @@
 <p align="left">ㅤㅤㅤ⋆｡‧˚ʚ🍓ɞ˚‧｡⋆ ⋆--- hii 𐔌՞꜆. ̫.꜀՞𐦯 <br>
 ☆ estou sempre descobrindo coisas novas todos os dias, explorando cada cantinho <br>do meu  mundo digital e aprendendo algo diferente a cada momento ˗ˏˋ ꒰ 🍓🍒🍄 ꒱ ˎˊ˗
 <br>｡･ﾟﾟ   ㅤㅤ¨*:·.ㅤㅤㅤㅤㅤㅤ   ･　ㅤㅤㅤ¨*ㅤㅤㅤㅤㅤ   ･ﾟﾟ     ㅤㅤㅤㅤㅤ    ･｡<br>┊✦. todo dia surge um bug diferente, mas cada erro é uma oportunidade divertida (ou não˙𐃷˙)<br> de aprender e melhorar minhas habilidades  ㅤㅤㅤㅤㅤ¨*:·.ㅤ   ･　</p>
-<br>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+  <br>
+
   
 | ![Stats](https://github-readme-stats.vercel.app/api?username=IvyDias&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=IvyDias&layout=compact&langs_count=5&theme=dracula&hide_border=false) |
 |---|---|
