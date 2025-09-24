@@ -1,8 +1,8 @@
 <p align="center">
 <img
-  src="https://i.pinimg.com/originals/36/ab/c0/36abc0149c648fbdced4113dd4ca7ea9.gif"
+  src="https://i.pinimg.com/1200x/5e/50/3f/5e503f2af8d13e760df0545ce4066c2b.jpg"
   alt="banner"
-  style="width:200%; height:100px; object-fit:cover;"
+  style="width:100%; height:160px; object-fit:cover;"
 />
 <p/>
   
