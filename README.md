@@ -1,11 +1,17 @@
-<p align="center">
-<img
-  src="https://i.pinimg.com/736x/8e/34/6c/8e346c560da2526a1a1d82188aeda81c.jpg"
-  alt="banner"
-  style="width:100%; height:160px; object-fit:cover;"
-/>
-<p/>
-  
+<p align="center" style="margin:0; padding:0; overflow:hidden;">
+  <img
+    src="https://blinkies.cafe/b/blinkiesCafe-m8.gif"
+    alt="banner"
+    style="
+      width:120%;
+      height:160px;
+      object-fit:cover;
+      display:block;
+      margin-left:-10%;
+    "
+  />
+</p>
+
 <br>
 
 </div>
