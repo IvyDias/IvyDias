@@ -1,6 +1,6 @@
 <p align="center">
 <img
-  src="https://i.pinimg.com/1200x/fe/6d/a8/fe6da85b6e7ffeaf80d10799b4dc78df.jpg"
+  src="https://i.pinimg.com/736x/8e/34/6c/8e346c560da2526a1a1d82188aeda81c.jpg"
   alt="banner"
   style="width:100%; height:160px; object-fit:cover;"
 />
