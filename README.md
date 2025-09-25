@@ -16,12 +16,36 @@
        align="right"
        valign="top"
        width="220"
-       alt="Glitter GIF">
-<p align="left">(\ (\<br>(„• ֊ •„)<br>━O━O━━━━━━━━━<br>・:。meu nome é ivy「 ✉️ 」・:三<br>━━━━━━━━━━━━━</p>
-<p align="left">ㅤㅤㅤ⋆｡‧˚ʚ🍓ɞ˚‧｡⋆ ⋆--- hii 𐔌՞꜆. ̫.꜀՞𐦯 <br>
-☆ estou sempre descobrindo coisas novas todos os dias, explorando cada cantinho <br>do meu  mundo digital e aprendendo algo diferente a cada momento ˗ˏˋ ꒰ 🍓🍒🍄 ꒱ ˎˊ˗
-<br>｡･ﾟﾟ   ㅤㅤ¨*:·.ㅤㅤㅤㅤㅤㅤ   ･　ㅤㅤㅤ¨*ㅤㅤㅤㅤㅤ   ･ﾟﾟ     ㅤㅤㅤㅤㅤ    ･｡<br>┊✦. todo dia surge um bug diferente, mas cada erro é uma oportunidade divertida (ou não˙𐃷˙)<br> de aprender e melhorar minhas habilidades  ㅤㅤㅤㅤㅤ¨*:·.ㅤ   ･　</p>
-<div align="left">
+       alt="Glitter GIF">  ㅤㅤㅤㅤㅤ  
+<p align="left">(\ (\<br>(„• ֊ •„)<br>━O━O━━━━━━━━━<br>・:。meu nome é Ivy「 ✉️ 」・:三<br>━━━━━━━━━━━━━</p>
+<p align="left">☆ estou sempre descobrindo coisas novas todos os dias, explorando cada cantinho <br>do meu  mundo digital e aprendendo algo diferente a cada momento ˗ˏˋ ꒰ 🍓🍒🍄 ꒱ ˎˊ˗
+<br>｡･ﾟﾟ   ㅤㅤ¨*:·.ㅤㅤㅤㅤㅤㅤ   ･　ㅤㅤㅤ¨*ㅤㅤㅤㅤㅤ   ･ﾟﾟ     ㅤㅤㅤㅤㅤ    ･｡<br>┊✦. todo dia surge um bug diferente, mas cada erro é uma oportunidade divertida (ou não˙𐃷˙)<br> de aprender e melhorar minhas habilidades  ㅤㅤㅤㅤㅤ¨   ･　</p>
+<p align="right">💋ྀིྀི  ㅤ𝚏𝚘𝚕𝚕𝚘𝚠 𝚖𝚎</p>
+<div align="right">
+  <a href="https://www.linkedin.com/in/ivycorreia/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.ivycorreiadias@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+  <br> 
+   
+  <h2>૮ ․ ․ ྀིა  ㅤ𝚖𝚢 𝚕𝚒𝚝𝚝𝚕𝚎 𝚝𝚑𝚒𝚗𝚐𝚜 </h2>
+  
+  
+
+| ![Stats](https://github-readme-stats.vercel.app/api?username=IvyDias&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IvyDias&theme=dracula&locale=pt)](https://git.io/streak-stats) |
+|---|---|
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IvyDias&theme=dracula&row=1&column=-1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="Trophy graph" />
+</p>
+ <h2 align="left">˚.🎀༘⋆      𝚖𝚢 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎 </h2>
+  
+  <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -32,17 +56,6 @@
 </div>
 
 ###
-  <br>
-
-  
-| ![Stats](https://github-readme-stats.vercel.app/api?username=IvyDias&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=IvyDias&layout=compact&langs_count=5&theme=dracula&hide_border=false) |
-|---|---|
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IvyDias&theme=dracula&row=1&column=-1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="Trophy graph" />
-</p>
-
 
 
 
