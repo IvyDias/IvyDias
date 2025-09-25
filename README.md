@@ -40,7 +40,7 @@
  |:-:|:-:|
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IvyDias&theme=dracula&row=1&column=-1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="Trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IvyDias&theme=radical&row=1&column=-1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="Trophy graph" />
 </p>
  <h2 align="right">˚.🎀༘⋆      𝚖𝚢 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎 </h2>
   
