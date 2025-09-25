@@ -20,8 +20,8 @@
 <p align="left">(\ (\<br>(„• ֊ •„)<br>━O━O━━━━━━━━━<br>・:。meu nome é Ivy「 ✉️ 」・:三<br>━━━━━━━━━━━━━</p>
 <p align="left">☆ estou sempre descobrindo coisas novas todos os dias, explorando cada cantinho <br>do meu  mundo digital e aprendendo algo diferente a cada momento ˗ˏˋ ꒰ 🍓🍒🍄 ꒱ ˎˊ˗
 <br>｡･ﾟﾟ   ㅤㅤ¨*:·.ㅤㅤㅤㅤㅤㅤ   ･　ㅤㅤㅤ¨*ㅤㅤㅤㅤㅤ   ･ﾟﾟ     ㅤㅤㅤㅤㅤ    ･｡<br>┊✦. todo dia surge um bug diferente, mas cada erro é uma oportunidade divertida (ou não˙𐃷˙)<br> de aprender e melhorar minhas habilidades  ㅤㅤㅤㅤㅤ¨   ･　</p>
-<p align="right">💋ྀིྀི  ㅤ𝚏𝚘𝚕𝚕𝚘𝚠 𝚖𝚎</p>
-<div align="right">
+<p align="left">💋ྀིྀི  ㅤ𝚏𝚘𝚕𝚕𝚘𝚠 𝚖𝚎</p>
+<div align="left">
   <a href="https://www.linkedin.com/in/ivycorreia/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
@@ -34,18 +34,17 @@
    
   <h2>૮ ․ ․ ྀིა  ㅤ𝚖𝚢 𝚕𝚒𝚝𝚝𝚕𝚎 𝚝𝚑𝚒𝚗𝚐𝚜 </h2>
   
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IvyDias&bg_color=141321&color=90e8fe&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-
-| ![Stats](https://github-readme-stats.vercel.app/api?username=IvyDias&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IvyDias&theme=dracula&locale=pt)](https://git.io/streak-stats) |
-|---|---|
-<br>
+ | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvyDias&show_icons=true&theme=radical)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
+ |:-:|:-:|
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=IvyDias&theme=dracula&row=1&column=-1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="Trophy graph" />
 </p>
- <h2 align="left">˚.🎀༘⋆      𝚖𝚢 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎 </h2>
+ <h2 align="right">˚.🎀༘⋆      𝚖𝚢 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎 </h2>
   
-  <div align="left">
+  <div align="right">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
